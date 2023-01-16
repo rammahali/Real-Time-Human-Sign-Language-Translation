@@ -8,7 +8,7 @@ Real time sign language detector and translator
 ## About
 
 
-The Human Sign Language Detection and Translation project is a tool that utilizes advanced deep learning techniques to accurately detect and convert human sign language into text. The goal of this project is to improve communication for the deaf and hard of hearing community. The project is implemented with Python, and uses popular deep learning frameworks including TensorFlow and Keras.  All contributions and feedback are welcome to continue to improve the project.
+This Human Sign Language Detection and Translation project is a tool that utilizes advanced deep learning techniques to accurately detect and convert human sign language into text. The goal of this project is to improve communication for the deaf and hard of hearing community. The project is implemented with Python, and uses popular deep learning frameworks including TensorFlow and Keras.  All contributions and feedback are welcome to continue to improve the project.
 
 
 ## Data collection
