@@ -11,6 +11,12 @@ Real time sign language detector and translator
 The Human Sign Language Detection and Translation project is a tool that utilizes advanced deep learning techniques to accurately detect and convert human sign language into text. The goal of this project is to improve communication for the deaf and hard of hearing community. The project is implemented with Python, and uses popular deep learning frameworks including TensorFlow and Keras.  All contributions and feedback are welcome to continue to improve the project.
 
 
+## Data collection
+
+Human face, pose, right hand , left hand data are collected using mediapipe library and then are stored into numpy arrays , training data consists of 30 frames per video and each frame conists of 30 keypoints 
+ 
+<img src="https://i.ibb.co/HxH2BJB/sign-lang.png" width="400" height="300">
+
 ## Currently supported signs
 
 * Hello
@@ -33,13 +39,6 @@ The Human Sign Language Detection and Translation project is a tool that utilize
 
 
 
-
-
-## Data collection
-
-Human face, pose, right hand , left hand data are collected using mediapipe library and then are stored into numpy arrays , training data consists of 30 frames per video and each frame conists of 30 keypoints 
- 
-<img src="https://i.ibb.co/HxH2BJB/sign-lang.png" width="400" height="300">
 
 ## Contrubite to this project
 
