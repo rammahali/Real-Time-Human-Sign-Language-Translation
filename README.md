@@ -1,4 +1,4 @@
-# Human sign language detection
+# Human sign language translation
 
 Real time sign language detector and translator
 
